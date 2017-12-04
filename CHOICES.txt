@@ -6,3 +6,5 @@ Third Choice: _3a___
 Fourth Choice: _4a___
 Fifth Choice: __3b__
 Sixth Choice: _4d__
+Sevnth Choice: _5d_
+Sevnth Choice: _4b_
